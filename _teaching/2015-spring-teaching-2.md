@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "Statistical Natural Language Processing"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Lecture"
+permalink: /teaching/2017-spring-teaching-1
+venue: "Saarland University, Department of Computer Science"
+date: 2017-03-03
+location: "Saarbruecken, Germany"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
