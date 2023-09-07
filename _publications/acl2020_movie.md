@@ -3,7 +3,7 @@ title: "MovieChats: Chat like Humans in a Closed Domain"
 collection: publications
 permalink: /publication/acl2020_movie
 excerpt: 'MovieChats: Chat like Humans in a Closed Domain'
-date: 2020
+date: 2020=07-22
 venue: 'ACL'
 paperurl: 'https://aclanthology.org/2020.emnlp-main.535.pdf'
 ---
