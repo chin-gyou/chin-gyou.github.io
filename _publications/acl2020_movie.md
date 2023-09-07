@@ -1,7 +1,7 @@
 ---
 title: "MovieChats: Chat like Humans in a Closed Domain"
 collection: publications
-permalink: /publication/acl2022_movie
+permalink: /publication/acl2020_movie
 excerpt: 'MovieChats: Chat like Humans in a Closed Domain'
 date: 2020
 venue: 'ACL'
