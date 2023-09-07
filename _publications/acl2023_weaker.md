@@ -3,7 +3,7 @@ title: "Weaker Than You Think: A Critical Look at Weakly Supervised Learning"
 collection: publications
 permalink: /publication/acl2023_weaker
 excerpt: 'Weaker Than You Think: A Critical Look at Weakly Supervised Learning'
-date: 2023
+date: 2023-07-22
 venue: 'ACL'
 paperurl: 'https://aclanthology.org/2023.acl-long.796.pdf'
 ---
