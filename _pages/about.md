@@ -42,4 +42,4 @@ Mission
 - To carry on lost teachings of ancient sages 为往圣继绝学
 - To build peace for posterity 为万世开太平
 
-I'm deeply passionated at AI for social good. 
+The development of AI can benefit a wide range of areas such as archeology, education, linguistics, physics, pshychology, etc. Our mission would be to properly guide the development of AI and better contribute to the society. To do so, we need to deeply understand the social needs. I tried to participate in various such as distrubuting food to homeless for the [rise foundation](https://risefoundation.de/), tutoring refugees at the [Redi-School](https://www.redi-school.org/), holding anti-separation activities at Bosnia and Herzegovina, etc, and see what we take for granted every day may be a luxury for many others. Therefore, I strongly believe that AI should be a tool for social good rather than for personal gain. Feel free to contact me for interdisciplinary research that can bring positive social impact and promote general equality.
