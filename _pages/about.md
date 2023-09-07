@@ -34,3 +34,10 @@ Awards
 - Interspeech Travel Grant, 2017
 - Outstanding Graduate/Outstanding Bachelor Thesis of Nanjing University, 2015
 - National Scholarship and Outstanding Student of Nanjing University, 2013
+
+Mission
+======
+- To ordain conscience for Heaven and Earth 为天地立心
+- To secure life and fortune for the people 为生民立命
+- To carry on lost teachings of ancient sages 为往圣继绝学
+- To build peace for posterity 为万世开太平
