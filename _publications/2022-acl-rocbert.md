@@ -3,7 +3,7 @@ title: "RoCBert: Robust Chinese Bert with Multimodal Contrastive Pretraining"
 collection: publications
 permalink: /publication/2022-acl-rocbert
 excerpt: 'RoCBert: Robust Chinese Bert with Multimodal Contrastive Pretraining'
-date: 2022
+date: 2022-07-22
 venue: 'ACL'
 paperurl: 'https://aclanthology.org/2022.acl-long.65.pdf'
 ---
