@@ -3,7 +3,7 @@ title: "xPQA: Cross-lingual Product Question Answering in 12 languages"
 collection: publications
 permalink: /publication/acl2023_xpqa
 excerpt: 'xPQA: Cross-lingual Product Question Answering in 12 languages'
-date: 2023
+date: 2023-07-22
 venue: 'ACL'
 paperurl: 'https://aclanthology.org/2023.acl-industry.12.pdf'
 ---
