@@ -22,7 +22,9 @@ The recent rapid development of LLMs have shown that the model performance can b
 - Cross-lingual generalization: From English-centric to multilingual expert
 - Domain Specialization: From general to domain expert
 
-I believe that future LLMs show follow these three paths to become truly usable and reliable intelligent agents. My research statement can be found [here](../files/Research_statement.pdf).
+I believe that future LLMs show follow these three paths to become truly usable and reliable intelligent agents. My research statement can be found here:
+
+<embed src="{{ site.baseurl }}/files/Research_Statement.pdf" width="600" height="700" type='application/pdf'></embed>.
 
 Awards
 ======
