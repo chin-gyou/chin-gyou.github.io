@@ -1,0 +1,32 @@
+---
+title: "A Few Thousand Translations Go a Long Way! Leveraging Pre-trained Models for African News Translation"
+collection: publications
+permalink: /publication/naacl_2022_afew
+excerpt: 'A Few Thousand Translations Go a Long Way! Leveraging Pre-trained Models for African News Translation'
+date: 2022-3-22
+venue: 'NAACL'
+paperurl: 'https://aclanthology.org/2022.naacl-main.223.pdf'
+---
+Recent advances in the pre-training of language
+models leverage large-scale datasets to create
+multilingual models. However, low-resource
+languages are mostly left out in these datasets.
+This is primarily because many widely spoken
+languages are not well represented on the web
+and therefore excluded from the large-scale
+crawls used to create datasets. Furthermore,
+downstream users of these models are restricted
+to the selection of languages originally chosen for pre-training. This work investigates
+how to optimally leverage existing pre-trained
+models to create low-resource translation systems for 16 African languages. We focus on
+two questions: 1) How can pre-trained models be used for languages not included in the
+initial pre-training? and 2) How can the resulting translation models effectively transfer
+to new domains? To answer these questions,
+we create a new African news corpus covering 16 languages, of which eight languages
+are not part of any existing evaluation dataset.
+We demonstrate that the most effective strategy
+for transferring both to additional languages
+and to additional domains is to fine-tune large
+pre-trained models on small quantities of highquality translation data.
+
+[Download paper here](https://aclanthology.org/2022.naacl-main.223.pdf)
