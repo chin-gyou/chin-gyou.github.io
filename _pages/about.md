@@ -6,7 +6,8 @@ redirect_from:
 ---
 
 I'm a machine learning scientist at Amazon Alexa AI leading the contextual question-answering project for shopping. I developed the full training pipeline of the system from scratch including pre-training, data collection/annotation and active/continuous learning. The developed shopping QA system has been applied over Amazon apps, webpages and Alexa devices serving hundreds of millions of users.
-I obtained my PhD degree from Saarland University/Max Planck Institute for Informatics in Germany under the supervision of [Dietrich Klakow](https://scholar.google.de/citations?user=_HtGYmoAAAAJ) and [Gerhard Weikum](https://people.mpi-inf.mpg.de/~weikum/). My research focused on conversational AI, controllable text generation and deep latent variable models. The PhD thesis is available [here](https://publikationen.sulb.uni-saarland.de/bitstream/20.500.11880/32106/1/combinepdf.pdf). Before that, i obtained my bachelor degree in Nanjing University.
+
+I obtained my PhD degree from Saarland University/Max Planck Institute for Informatics in Germany under the supervision of [Dietrich Klakow](https://scholar.google.de/citations?user=_HtGYmoAAAAJ) and [Gerhard Weikum](https://people.mpi-inf.mpg.de/~weikum/). My research focused on conversational AI, controllable text generation and deep latent variable models. The PhD thesis is available [here](https://publikationen.sulb.uni-saarland.de/bitstream/20.500.11880/32106/1/combinepdf.pdf). During my PhD phase, I also spent 1 year in Japan, working with Prof. [Akiki Aizawa](https://scholar.google.com/citations?user=JQy5hPoAAAAJ) from the university of Tokyo/NII, Prof. [Kentaro Inui](http://www.cl.ecei.tohoku.ac.jp/~inui/) and Prof. [Jun Suzuki](http://www.fai.cds.tohoku.ac.jp/members/js/) from Tohuku University/RIKEN AIP. Before that, i obtained my bachelor degree from Nanjing University.
 
 News
 ======
@@ -15,8 +16,13 @@ News
 - Our [paper](https://aclanthology.org/2023.acl-industry.12.pdf) on cross-lingual product question answering has been accepted by the industry track of ACL 2023. The dataset xPQA has been released [here](https://github.com/amazon-science/contextual-product-qa/).
 
 Research Interests
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+======
+The recent rapid development of LLMs have shown that the model performance can be steadily improved as the growing model and data size. Moving forward, my mission to explore to which extend LLMs can lead us towards the goal and how my expertise could help reduce the gap. With this in mind, I plan on pushing forward in the following research areas:
+- Interpretability and Explainability: From probabilistic answer generator to logical thinker
+- Cross-lingual generalization: From English-centric to multilingual expert
+- Domain Specialization: From general to domain expert
+
+I believe that future LLMs show follow these three paths to become truly usable and reliable intelligent agents. My research statement can be found here.
 
 Awards
 ======
