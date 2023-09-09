@@ -11,9 +11,12 @@ I obtained my PhD degree from Saarland University/Max Planck Institute for Infor
 
 News
 ======
+<!---
 - I will join [Eastern Institute of Technology](https://www.eias.ac.cn/?lang=en) as an assistant professor from November, 2023. We run joint collaborated Phd programs with Shanghai Jiaotong University, Hong Kong University of Science and Technology and The Hong Kong Polytechnic University. Students will be awarded with degrees from our collaborated universities. If you are interested in joining as potential interns, PhDs or post docs, please [send me an email](mailto:isky1994@gmail.com).
+-->
 - Our [paper](https://aclanthology.org/2023.acl-long.796.pdf) on weak supervision has won the special theme paper award at ACL 2023.
 - Our [paper](https://aclanthology.org/2023.acl-industry.12.pdf) on cross-lingual product question answering has been accepted by the industry track of ACL 2023. The dataset xPQA has been released [here](https://github.com/amazon-science/contextual-product-qa/).
+- We published a [survey](https://arxiv.org/pdf/2208.03197) on training neural-ranking models with limited annotations. Any comments are welcome.
 
 Research Interests
 ======
